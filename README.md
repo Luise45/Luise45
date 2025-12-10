@@ -1,25 +1,22 @@
-# Hi there 👋
----
+## Hi there 👋
 I am a second year computer science student. I enjoy working with both frontend and backend technologies and exploring new tools.
+###  Tech Stack
 
-##  Tech Stack
-
-### **Programming Languages**  
+#### **Programming Languages**
 Java, JavaScript, TypeScript, SQL, HTML, CSS  
 
-### **Frameworks & Libraries**  
+#### **Frameworks & Libraries**  
 Angular, Spring Boot, Node.js, Express, MongoDB  
 
-### **Software & Tools** 
+#### **Software & Tools** 
 GitHub / GitLab, Postman, Visual Studio Code, IntelliJ IDEA, pgAdmin  
  
 ---
-##  What I'm Currently Doing
+### What I'm Currently Doing
 - Learning more backend concepts  
 - Improving my full-stack development skills  
 - Working on more projects to gain more knowledge 
 
----
 
 
 

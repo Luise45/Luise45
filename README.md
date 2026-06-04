@@ -1,5 +1,6 @@
 ## Hello
-My name is Luise, I am currebtly a second year computer science student. I enjoy working with both frontend and backend technologies and I like exploring new tools.
+My name is Luise, I am currently studying computer science in the 4th semester. I enjoy working with both frontend and backend technologies and I like exploring new tools.
+
 ###  Tech Stack
 
 #### **Programming Languages**

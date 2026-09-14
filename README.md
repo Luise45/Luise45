@@ -1,16 +1,5 @@
 ## Hello
-My name is Luise. I am currently studying computer science in the 4th semester. I enjoy working with both frontend and backend technologies and I like exploring new tools.
-
-###  Tech Stack
-
-#### **Programming Languages**
-Java, JavaScript, TypeScript, SQL, HTML, CSS  
-
-#### **Frameworks & Libraries**  
-Angular, Spring Boot, Node.js, Express, React
-
-#### **Software & Tools** 
-GitHub /GitLab, Postman, VS Code, IntelliJ IDEA, pgAdmin  
+My name is Luise. I am currently studying computer science.
  
 ---
 ### What I'm Currently Doing

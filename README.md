@@ -1,5 +1,5 @@
 ## Hello
-My name is Luise. I am currently studying computer science.
+My name is Luise, and I am currently studying computer science.
  
 ---
 ### What I'm Currently Doing
@@ -24,3 +24,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luise45&theme=vue-dark&mode=weekly)](https://git.io/streak-stats)
+---
+## Connect with Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">](www.linkedin.com/in/luise-helene-tabatt-101b81412)  
+
+

@@ -1,11 +1,4 @@
-## Hello
-My name is Luise, and I am currently studying computer science.
- 
----
-### What I'm Currently Doing
-- Practicing Spring Boot
-- Learning new frontend frameworks
-- Improving my skills with SQL
+
 
 
 

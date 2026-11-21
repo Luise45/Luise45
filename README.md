@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=Luise45&theme=vue-dark&mode=weekly)](https://git.io/streak-stats)
 ---
-## Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">](www.linkedin.com/in/luise-helene-tabatt-101b81412)  
 
